@@ -1,0 +1,3 @@
+inference time : 67.7
+fps: 0.8714918759231906
+Models Loading: 0.23790717124938965
